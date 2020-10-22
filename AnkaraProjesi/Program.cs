@@ -10,6 +10,7 @@ namespace AnkaraProjesi
     {
         static void Main(string[] args)
         {
+            //sa from ali
         }
     }
 }
