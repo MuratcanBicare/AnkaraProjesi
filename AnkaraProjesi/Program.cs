@@ -16,7 +16,7 @@ namespace AnkaraProjesi
         }
         static void Yaz()
         {
-
+            Console.WriteLine("ali was here");
         }
 
         static void Oku()
