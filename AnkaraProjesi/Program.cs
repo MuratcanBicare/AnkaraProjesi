@@ -12,6 +12,7 @@ namespace AnkaraProjesi
         {
             //sa from ali
             //murat yazma
+            //as from muratcan
         }
     }
 }
