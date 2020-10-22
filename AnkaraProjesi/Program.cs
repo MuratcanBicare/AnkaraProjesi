@@ -14,5 +14,14 @@ namespace AnkaraProjesi
             //murat yazma
             //as from muratcan
         }
+        static void Yaz()
+        {
+
+        }
+
+        static void Oku()
+        {
+
+        }
     }
 }
