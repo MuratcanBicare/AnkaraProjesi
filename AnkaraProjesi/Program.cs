@@ -21,7 +21,7 @@ namespace AnkaraProjesi
 
         static void Oku()
         {
-
+            int a = 5;
         }
     }
 }
